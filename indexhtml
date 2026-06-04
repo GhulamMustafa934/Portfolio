@@ -19,3 +19,68 @@
       <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
+
+   <div class="wrapper"></div>
+
+  <!-- HERO -->
+    <section class="hero">
+      <div class="avatar">GM</div>
+      <div class="hero-text">
+        <h1>Ghulam Mustafa</h1>
+        <p>3rd Year Software Engineering Student from Sukkur, Pakistan. Passionate about building software with C++, Java, AI & Data Structures.</p>
+        <div class="badge-row">
+          <span class="badge b-green">Open to opportunities</span>
+          <span class="badge b-blue">Software Engineering</span>
+          <span class="badge b-amber">Pakistan 🇵🇰</span>
+        </div>
+      </div>
+    </section>
+
+     <!-- SKILLS -->
+    <section id="skills">
+      <p class="section-label">Skills &amp; Languages</p>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#534AB7"></span>
+          <div>
+            <div class="skill-name">C++</div>
+            <div class="skill-sub">Systems &amp; DSA</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#D85A30"></span>
+          <div>
+            <div class="skill-name">Java</div>
+            <div class="skill-sub">OOP &amp; Backend</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#1D9E75"></span>
+          <div>
+            <div class="skill-name">Artificial Intelligence</div>
+            <div class="skill-sub">ML Fundamentals</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#BA7517"></span>
+          <div>
+            <div class="skill-name">DSA</div>
+            <div class="skill-sub">Data Structures &amp; Algorithms</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#378ADD"></span>
+          <div>
+            <div class="skill-name">Python</div>
+            <div class="skill-sub">Scripting &amp; AI</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <span class="skill-dot" style="background:#888780"></span>
+          <div>
+            <div class="skill-name">MySQL</div>
+            <div class="skill-sub">Databases</div>
+          </div>
+        </div>
+      </div>
+    </section>
